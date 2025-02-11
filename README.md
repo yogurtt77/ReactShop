@@ -56,6 +56,11 @@ To run the project locally, follow these steps:
 - **Product Details:** View detailed information about each product.
 - **Checkout:** Proceed with the checkout to complete your order.
 
+## 📸 Screenshots
+![Main Page](./screen/first.png)  
+![Main Page](./screen/second.png)  
+![Main Page](./screen/third.png)  
+
 ## 💡 Check out the live version of the app!
 ## 🔗 Live Demo
 You can try the application in action by following this https://yogurtt77.github.io/ReactShop/
