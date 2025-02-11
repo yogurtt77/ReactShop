@@ -58,5 +58,5 @@ To run the project locally, follow these steps:
 
 ## 💡 Check out the live version of the app!
 ## 🔗 Live Demo
-You can try the application in action by following this [link]([Enter!!!](https://yogurtt77.github.io/ReactShop/).
+You can try the application in action by following this https://yogurtt77.github.io/ReactShop/
 
