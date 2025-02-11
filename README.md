@@ -50,11 +50,13 @@ To run the project locally, follow these steps:
 5. Open your browser and go to http://localhost:3000 to view the app.
    
 ## 🛍 Usage
-Browse Categories: Explore products by category (e.g., kitchen, furniture, decor).
-Filter and Sort: Narrow down your options by filtering and sorting products.
-Add to Cart: Easily add products to your cart, adjust quantities, and remove items.
-Product Details: View detailed information about each product.
-Checkout: Proceed with the checkout to complete your order.
+- **Browse Categories:** Explore products by category (e.g., kitchen, furniture, decor).
+- **Filter and Sort:** Narrow down your options by filtering and sorting products.
+- **Add to Cart:** Easily add products to your cart, adjust quantities, and remove items.
+- **Product Details:** View detailed information about each product.
+- **Checkout:** Proceed with the checkout to complete your order.
 
 ## 💡 Check out the live version of the app!
 ## 🔗 Live Demo
+You can try the application in action by following this [link]([Enter!!!](https://yogurtt77.github.io/ReactShop/).
+
