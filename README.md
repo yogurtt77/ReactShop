@@ -57,9 +57,9 @@ To run the project locally, follow these steps:
 - **Checkout:** Proceed with the checkout to complete your order.
 
 ## 📸 Screenshots
-![Main Page](./screen/first.png)  
-![Main Page](./screen/second.png)  
-![Main Page](./screen/third.png)  
+![Main Page](./screens/first.png)  
+![Main Page](./screens/second.png)  
+![Main Page](./screens/third.png)  
 
 ## 💡 Check out the live version of the app!
 ## 🔗 Live Demo
